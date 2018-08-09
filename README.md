@@ -12,6 +12,7 @@ JAR Files:
 3) json-simple-1.1.1.jar
 4) jsr311-api-1.1.1.jar
 
+There's no need for defining pom.xml if adding the above jar files.
 
 **************************
 Maven Dependencies:
